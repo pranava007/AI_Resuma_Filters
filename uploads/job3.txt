@@ -1,0 +1,180 @@
+Tech Careers
+Companies
+Career Advice
+Career Development Resources
+Why Dice
+For Employers
+Contact Sales
+Login/Register
+Home
+Search
+Job Details
+
+Options
+Quality assurance
+Genome International Corp
+Lansing, MI
+Posted 16 hours ago | Updated 16 hours ago
+
+Save
+Dice Match
+Log in or create your free profile to see if this job is a match.
+Overview
+
+On Site
+Hybrid
+$60+
+Contract - W2
+Contract - Independent
+Contract - 12 Month(s)
+Skills
+
+QA
+Agile
+Job Details
+
+"This position will function as the Test Analyst for Agency Services supporting MDHHS within the Department of Technology Management and Budget. Vital Records exists to register, preserve, and issue certified copies of vital records. This includes birht, death, fetal death, marriage, and divorce certifictes for all events that occur in Michigan. Vital statistics are compiled from these event registries and from Michigan's Central Cancer Registry and Birth Defects Registry, to support publich health, policy, and biomedical research.
+
+The Test Analyst will support all test activities for EDRS, BRS, and VERA applications in terms of communications to and from the Lead Business Analysts and ensuring through the Lead Test Analyst that key test issues are managed or escalated as necessary. Additionally, will produce reports, presentations, and meeting minutes for quality assurance testing assignments and deliverables as required."
+
+" Communicate and interact with the BA and development teams during the requirements, development and testing processes.
+Assist team in creating test scenarios to meet the validation of acceptance criteria of business requirements.
+Undertake all system test related activities in support of the business requirements for the provision of application updates.
+Undertake functional and integration testing, and liaison with third-party staff to ensure appropriate test coverage.
+Undertake Quality Assurance checks during third-party meetings and internal developments to ensure that only complete code is delivered into test environments owned by the test team.
+Attend meetings as well as workshops comprising business and or technical representatives to cover test-dependent activities such as requirement verification and prioritization, test scenario identification and general matters.
+Develop, publish, and implement test plans using Azure DevOps.
+Ensure that test scenarios are prioritized to reflect business or technical priorities and are approved by appropriate stakeholders.
+Coordinate re-testing of defects and issues with BA and third-party staff to ensure no new defects are introduced to Production environment.
+Prepare and maintain relevant test documentation, including test scripts, activity schedules, narrative and written reports, and visual progress charts.
+Prepare and maintain automated test scripts, schedule for testing and review and share test results with project team Develop load and implement load testing strategies and perform the load testing and share results with project team
+Responsible for: time management; reporting and monitoring; risk management; issue management; quality assurance and change management.
+Support other test team members and associated IT and Business resources as appropriate to the implementation of testing related activities.
+Work in an agile environment and understand agile methodologies.
+Carry out other tasks as agreed with the Lead Test Analyst and Lead Business Analyst."
+E
+" 7+ years experience in system/application quality assurance testing.
+7+ years experience in documenting and executing test cases and test scenarios based upon acceptance criteria of requirements
+7+ years experience in troubleshooting and tracking defects.
+7+ years experience practicing testing methodologies such as black box testing, white box testing, functional testing, regression testing, etc.
+5+ years of experience implementing Load testing strategies and implementing Load testing on projects
+3+ years of experience implementing automated testing on project using Selinum and or Smartbear testing tool.
+3+ years experience using Azure DevOps or another like project management software for Agile development including test driven development.
+3+ years experience using API testing tool Postman or like software tool.
+3+ years experience executing queries against SQL and Oracle databases to locate specific data sets for analysis.
+"
+
+Report this job
+Dice Id: genwi001
+Position Id: MIQA032024
+Posted 16 hours ago
+Show Less
+Contact the Job Poster
+Recruiter Image
+Mano Mohanram
+
+Genome International Corp CTO/Consulting Lead
+
+
+View Profile
+horizontaljob-alert
+Create Job Alert
+Get an email that alerts you when similar new jobs are posted and never miss out on new opportunities.
+
+Create Alert
+
+Similar Jobs
+
+
+Save
+W2 - S/w Test Analyst 4 (system/application QA testing, troubleshooting, tracking defects) - Hybrid
+Tanson Corp
+Lansing, Michigan, USA
+Contract
+
+Easy Apply
+Posted 20 hours ago | Updated moments ago
+
+
+Save
+Automation Tester
+Innosoul inc
+Lansing, Michigan, USA
+Contract, Third Party
+
+Easy Apply
+Posted 20 hours ago
+
+
+Save
+Immediate Hiring for Software Tester/ QA automation Tester - only Local from Michigan
+Morph Enterprise LLC
+Lansing, Michigan, USA
+Contract, Third Party
+
+Easy Apply
+Posted 19 hours ago
+
+
+Save
+Software Test Analyst 4 - Quality Analyst - 2 days Onsite in Lansing, MI - Face 2 Face Interview is MUST
+RICEFW Technologies Inc
+Lansing, Michigan, USA
+Third Party, Contract
+
+Easy Apply
+Posted 20 hours ago | Updated moments ago
+
+
+Save
+Direct Client: QA Tester @ Lansing, MI Hybrid Only locals
+KSN Technologies, Inc.
+Lansing, Michigan, USA
+Contract
+
+Easy Apply
+Posted 16 hours ago
+
+
+Save
+QA Analyst (Hybrid Onsite - Locals Only)
+GSK Solutions Inc.
+Lansing, Michigan, USA
+Third Party, Contract
+
+Easy Apply
+Posted 20 hours ago | Updated moments ago
+See More
+
+Ad
+Technology Professionals
+Search for Jobs
+Jobs Directory
+Search for Companies
+Company Directory
+Career Advice
+Career Events
+Career Development Resources
+Employers and Recruiters
+Post Jobs
+Find Candidates
+Employer Brand & Advertising
+Hiring Events
+Sourcing Services
+Partnerships
+Recruiting Advice
+Company Information
+About Us
+Media
+Media Kit
+Work at Dice
+Contact Us
+Contact Sales
+Contact Support
+Knowledge Center
+Get the Dice app.
+Unlock your tech potential.
+
+Copyright © 1990 - 2024 Dice. All Rights Reserved. Dice is a DHI service.
+
+Terms & ConditionsPrivacy Policy Do Not Sell My Personal InformationCCPA

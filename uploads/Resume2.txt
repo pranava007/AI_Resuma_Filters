@@ -1,0 +1,152 @@
+Trinity Pal
+
+ 
+SUMMARY:
+Around 7+ years of diversified experience in the field of Quality Assurance in various client/server and Web based applications. Involved in all phases of software testing life cycles. Performed manual and automated testing using tools such as Python, Selenium, Salesforce, Jira, HP Quality Center, ICEDQ, and Postman.
+Experience in Functional, Regression and System testing using Manual and Automated testing tools - Selenium WebDriver.
+Involved in FHIR – HL7 transformation process on healthcare records.
+Extensively used Aws console to access Amazon S3 buckets, AWS Glue job, AWS CloudWatch, AWS Lenses, Athena, and AWS Workspace.
+ETL Testing using ICEDQ to compare source vs target in the form of tables, Json files and flat files.
+Automated the ingestion process in AWS-S3 console using python boto3.
+Automated the data validation from Quicksight dashboard to Athena using Python pandas dataframe.
+Experience in object-oriented programming (OOP) concepts using Java.
+Validated Restful API services for testing the status of the webpages.
+Used Selenium WebDriver to handle various web page controls like textbox, button, dropdown, checkbox, radio button, labels using XPath and other locators.
+Used Postman to validate the expected output with the Response. 
+Experience in Black box testing.
+Expertise in Functional, Integration, Smoke, System, Regression, Load and Stress testing. Solid understanding of the SD/QA Life Cycle.
+Designing test cases and writing test scripts for regression testing.
+Extensive experience in bug tracking tools Salesforce, Jira, and Quality Center.
+Experience working in different SDLC models like Agile and Waterfall Model. 
+Strong analytical and problem-solving skills with the ability to work individually as well as be a team player.
+
+ 
+
+
+
+Technical Skills:
+ 
+Testing Tools
+Selenium, Jira, Quality Center
+Test Scripting
+Java, Python(boto3, pandas)
+Web Technologies
+HTML, XML, JSON
+App Servers
+Tomcat.
+DBMS
+MS SQL Server, Postgres and Athena
+Operating System
+Windows 98/2000, Linux, Sun Solaris, AS400.
+Tools
+Eclipse, TestNG, Maven, Jenkins, MS Office, Salesforce, Postman, ICEDQ, Amazon Cloud, AWS Workspace, S3, Glue, Cloud watch, Lenses, Athena, Data Lake, HealthLake & Quicksight Dashboard.
+
+
+
+
+
+
+
+Healthfirst                                                                          	        	               Oct’ 21 – Feb’24
+Role: Senior Test Analyst/Test Lead
+Application: CMS Interoperability, Data Lake, MedAdherence, Connected Care, HealthLake
+CMS (Center for Medicare & Medicaid Service) Interoperability application is used to transform healthcare data into FHIR HL7 format and store the transformed data in Smile CDR (Clinical Data Repository) where it can be accessed using Smart App.
+Data Lake - project is used to save all healthcare data from Smile CDR to Athena Curated data Lake repository which can be accessed via Athena and utilized to generate user-based reports and dashboards.
+ConnectedCare – helps providers to identify the conditions which have been assessed, viewed to help the patients to get the necessary care.
+MedAdherence -Combined resources to identify if a member is adhering to the medication and generate the report to suit the user needs.
+HealthLake - project is for to store all FHIR records from smile into AWS Health Lake for analytical purpose.
+File upload automation & Quicksight Dashboard automation - Automated the manual validation steps using Python API services (boto3, pandas, pdf reader).
+ 
+Responsibilities:
+Involved in using the AWS environment to start the transformation process to test Healthfirst data is getting converted to FHIR format.
+Gathered Patient, Coverage, Medical Claims, Pharmacy Claims, Observation, and Immunization related data to run in the test environment.
+Used ICEDQ tool to write the query for transformation and compare it with Transformation Data.
+Compared JSON files in ICEDQ for data validation.
+Extensively used SQL Server Management Studio to import and analyze the input data.
+Raised data discrepancies queries to the development team.
+Extensively involved in writing Postgres queries to validate source and target tables containing values in array format.
+Data Validation in Postgres to check if the data is flowing through views as per the requirement logics.
+Involved in writing Athena queries for the columns containing array values using the cardinalities.
+Automated the ingestion process in AWS S3 and reduced the manual effort and time.
+Automated the Quicksight dashboard validation and used python - pandas data frame to compare the results from dashboard & Athena.
+Validated API testing output using Postman request for Patient and Coverage data.
+Used Selenium to validate front end application related to Community Health.
+Ran API queries to get the distinct count records for each resource.
+Validated SmileCDR resource record count using Postman.
+Attended everyday standup meetings to understand and analyze the information with other team members.
+Managed Offshore resources to engage in the application activities.
+Involved in executing test cases in System Testing and Release Testing in AWS environments.
+Documented the end-to-end process of each interface release for future use.
+ 
+Environment: AWS S3, AWS Lenses, AWS Glue, AWS workspace, Athena, Data Lake, Health Lake, Redis-MemoryDB, Smile CDR, SSMS, Postgres, Selenium, Python, TestNG, ICEDQ, Gitlab and MS Office Suite.
+ 
+CVS Caremark                                                                   	        	                     Oct’20-Sep’21
+Role: Senior QA Analyst
+Application(s) Name: Pharmacy Benefit Management (PBM) & Release Management
+PBM is a set of applications used for managing drug benefits. Once sales departments acquire a new client, together they will determine the benefit structure and implement the Pharmacy Benefits. Benefit are the parameters by which a claim adjudicates. Every plan has a benefit structure that determines what drugs pay at what price. The benefit structure includes the pharmacy network, drug exceptions or exclusions, drug pricing and dispensing limitations.
+ 
+Responsibilities:
+Involved in Requirements gathering for clinical testing for Formulary and Non-Formulary drugs.
+Extensively Used Salesforce to access the PBM plan related requirements as well as uploaded all testing related input and output files.
+Developed a testbed based on the client specific requirements.
+Validated the results in RxClaim AS400 system to verify the behavior of claims as well as validating claim reject codes.
+Created testbed for clinical testing and utilization management testing.
+Mainly focused on testing Medicare drugs using retail mail and Long-Term Care (LTC) channels.
+Used VLOOKUP to Analyze the data shared by the client.
+Used EzQuery Tools to access plan records from the database.
+Verified the following scenarios involving drug dosage, age restrictions for high-risk medication, quantity, refill limit as well as prior authorization.
+Validated claim approval under National Drug Code (NDC) and Generic Product Identifier (GPI) on Carrier Account Group (CAG) level.
+Involved in Release Management activities like promoting the cases to production and validating the queries.
+Worked on Specialty cases manually and promoted them to production environment.
+ 
+Environment: AS400, Salesforce, EzQuery, EZTest, RM Tool, and MS Office Suite.
+
+
+
+
+
+ 
+
+Circular Edge                                                                                                       Mar ‘18-Oct’20 
+Role: QA Analyst
+Application Name: Smart Scheduler
+Smart scheduler is an add-on to eliminate JD Edwards Batch job challenge. Key features
+are Advanced Dependency Management, Time Zone Support, Advanced recurrence setup,
+Smart notification and analytical reports of all the jobs.
+ 
+Responsibilities:
+Manually verified all aspects of job scheduling: Job dependency, Time zone and smart notification.
+Involved in setting up Automation Framework Using Selenium WebDriver, JAVA and TestNG.
+Experience in designing automation framework using Page Object Model (POM) Design for better code reusability & maintenance.
+Executed Automated script using Selenium TestNG to ensure application behavior is as per requirements, identified mismatches and reported defects to the development team. 
+Used Data Driven Framework to check the behavior of application with different inputs as parameters using Selenium using TestNG DataProvider.
+Created automated script for REST-API testing using Rest Assured framework.
+Created and maintained ownership of test cases and test results throughout SDLC.
+Vast knowledge of testing techniques to cover all scenarios for testing, verification, and validation techniques.
+Executed manual and automated test using Selenium.
+Involved in regression testing and releasing the multiple features.
+Verified analytical reports generation process.
+Developed the automated script for Web version of Smart Scheduler for following features: Visualize status of jobs and Pause/Resume of jobs.
+Well versed in analyzing Test Results, Bug Tracking, Reporting & Detailed status reporting.
+Using the Agile methodology provided technical leadership and expertise in the reorganization of a complex End-to-End testing effort and performed system analysis and organizational review of existing QA process with special focus on custom test tools.
+Worked closely with Developers and User Representatives, participated in the Product Design Process including specifications and end-user reviews and application walk-through.
+ 
+Environment: Selenium, Jira, Maven, Jenkins, TestNG, MS Office.
+ 
+Iflowsoft Solutions Inc        	                                                                            Jan ‘17– Feb ‘18
+White Plains Hospital Center, White plains, NY        	                                          
+Role: QA Tester                                                                        
+White plains Hospital center is the largest non-governmental hospital in White plains. The “EMR” (Electronic Medical Record) is a web-based application that allows viewing, modifying, and updating patient information. This project is categorized into several modules like patient information admissions (ADAM), claims processing, medical records etc. and I was involved in the Claims forms CMS-1500 and Uniform Bill UB-04 testing.
+ 
+Responsibilities:
+Analyzed Business and Requirement Specifications. Designed test lab and formulation of Test Plans for the Functional, Integration and end-to-end test.
+Executed manual test cases in Quality Center to ensure application behavior is as per requirements, identified mismatches and reported defects to the development team.
+Involved in database data verification by writing SQL queries.
+Manual Verification of UI Forms against multiple Database.
+Participated actively in the team meetings with the developers for defect reviews.
+Responsible for continuous process improvement and for identifying and maintaining a clear and measurable QA program that is deployable throughout the enterprise. Managed project requirements and traceability using Quality Center.
+Using the Waterfall methodology provided technical leadership and expertise in the reorganization of a complex End-to-End testing effort and performed system analysis and organizational review of existing QA process with special focus on custom test tools.
+ 
+Environment: Quality Center, Tomcat, Oracle, and MS SQL.
+ 
+ 
